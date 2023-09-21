@@ -5,6 +5,4 @@ ajout de la ligne 6, la vraie
 
 
 
-ajout ligne 8 sur branche dev 
-
-ajout n245 dev
+ajout ligne 8 sur branche dev
